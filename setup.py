@@ -6,6 +6,6 @@ setup(
     version="1.0",
     packages=find_packages('src'),
     package_dir={'': 'src'},
-    author="Marina la mejor",
+    author="Marina Cuesta",
     author_email="",
 )
